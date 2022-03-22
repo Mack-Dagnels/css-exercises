@@ -1,8 +1,16 @@
 .test-class {
-    background-color: palevioletred;
+    background-color: rgb(218, 138, 138);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #one-id {
     color: blue;
     font-size: 36px;
+}
+#another-id {
+    background-color: rgb(117, 245, 94);
+    font-size: 24px;
+    font-weight: bold;
+}
+.test-class#cooler {
+    font-size: 24px;
 }
