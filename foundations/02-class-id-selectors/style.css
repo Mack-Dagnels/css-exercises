@@ -1,3 +1,8 @@
 .test-class {
     background-color: palevioletred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#one-id {
+    color: blue;
+    font-size: 36px;
 }
