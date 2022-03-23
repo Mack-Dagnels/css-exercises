@@ -1,0 +1,11 @@
+.first-guy {
+    background-color: black;
+    color: white;
+}
+.second-guy {
+    background-color: yellow;
+}
+.first-guy, .second-guy {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
